@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aziqo97
 - 👀 My life is Programming...
 - 🌱 I’m currently learning Laravel
-- 
+- phone number is +998975774747
