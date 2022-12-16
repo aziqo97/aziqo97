@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aziqo97
+- 👀 My life is Programming...
+- 🌱 I’m currently learning Laravel
+- 
